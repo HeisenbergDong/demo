@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-oauth-jwt-resource-server/spring-boot-oauth-jwt-resource-server.iml" filepath="$PROJECT_DIR$/spring-boot-oauth-jwt-resource-server/spring-boot-oauth-jwt-resource-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-oauth-jwt-server/spring-boot-oauth-jwt-server.iml" filepath="$PROJECT_DIR$/spring-boot-oauth-jwt-server/spring-boot-oauth-jwt-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-oauth2.iml" filepath="$PROJECT_DIR$/.idea/spring-oauth2.iml" />
+    </modules>
+  </component>
+</project>
