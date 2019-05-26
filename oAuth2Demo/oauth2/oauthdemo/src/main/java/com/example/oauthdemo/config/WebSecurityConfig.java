@@ -9,9 +9,6 @@ import org.springframework.security.config.annotation.authentication.builders.Au
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
-/**
- * Created by on 2017.03.08.
- */
 @Configuration
 class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
